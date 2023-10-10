@@ -1,1 +1,1 @@
-# sentiment-analysis-on-rate-my-professor-data
+# Sentiment Analysis on Rate My Professor Data
